@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @0UP5
-- 👀 I’m interested in potato
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on creating letal weapons
+- 👋 Hi, I’m Lorenzo Solari
+- 👀 I’m interested in developping games
+- 🌱 I’m currently learning how to don't write crappy code
 - 📫 How to reach me ... I don't know !
 
 <!---
